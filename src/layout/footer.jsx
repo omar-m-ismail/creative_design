@@ -14,10 +14,10 @@ export default function Footing() {
         <h2>location</h2>
         <ul>
         <li><FontAwesomeIcon icon={faLocationPin} />
-2C-1701 Richmond Street, London, ON <br /></li>
+Toronto, Waterloo, London, ON, Canada <br /></li>
         <li><FontAwesomeIcon icon={faLocationPin} />
-675 Cochrane Drive East Tower 6th Floor,<br /></li>
-        <li>Markham ON <br /></li>
+Dubai - Abu Dhabi, UAE<br /></li>
+
         <li>Tel: +1 (519) 878-5488 <br />
         </li>
         <li><a href="mailto:cs@creativestr.ca">

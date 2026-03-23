@@ -244,15 +244,7 @@ a {
 }
 
 /* -------------------- MOBILE -------------------- */
-@media (max-width: 768px) {
-  .card-left,
-  .card-right {
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
-  }
 
-}
 
 /* -------------------- FONTS -------------------- */
 @font-face {
