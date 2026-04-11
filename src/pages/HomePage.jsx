@@ -174,6 +174,8 @@ Towers</h2>
       </div>
     </figure>
 
+    <br />
+
     <figure className="animate delay3">
       <img src="meadowilly.webp" alt="Meadowlily Subdivision" />
       <div>
@@ -216,6 +218,7 @@ work </h1>
           <h1 className="wwu">with us
           </h1>
           </span>
+          <div>
           <div className="wwu_text">
           <h5 className="animate2">
 we Design the future
@@ -225,6 +228,7 @@ we Design the future
 shape through thoughtful design and purposeful
 execution. Start building your story with us.
           </p>
+                    </div>
           <Link to="/EngineeringTeam"   onClick={() => window.scrollTo(0, 0)}>
           <span className="lm_button animate2 delay2">
           learn more
