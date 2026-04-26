@@ -600,7 +600,7 @@ padding: 20px;
   .card{
     flex-direction: row !important;
     width: 100% !important;
-    height: 30vh !important;
+    height: 10vh !important;
   }
   .card div{
     display: flex;
