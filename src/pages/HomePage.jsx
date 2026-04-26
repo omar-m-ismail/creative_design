@@ -146,7 +146,7 @@ Our vision is realized through practice by cultivating strong relationships with
 
   <div className="mini" >
 
-    <figure className="animate">
+    <figure className="animate card">
       <img src="highland_elite.webp" alt="Highland Elite Towers" />
       <div>
         <h2>Highland Elite Towers</h2>
@@ -155,7 +155,7 @@ Our vision is realized through practice by cultivating strong relationships with
       </div>
     </figure>
 
-    <figure className="animate delay1">
+    <figure className="animate delay1 card">
       <img src="sou_res.webp" alt="South Residential Towers" />
       <div>
         <h2>South Residential Towers</h2>
@@ -164,7 +164,7 @@ Our vision is realized through practice by cultivating strong relationships with
       </div>
     </figure>
 
-    <figure className="animate delay2">
+    <figure className="animate delay2 card">
       <img src="gain_card.webp" alt="Gainsborough Towers" />
       <div>
         <h2>Gainsborough
@@ -176,7 +176,7 @@ Towers</h2>
 
     <br />
 
-    <figure className="animate delay3">
+    <figure className="animate delay3 card">
       <img src="meadowilly.webp" alt="Meadowlily Subdivision" />
       <div>
         <h2>Meadowlily Subdivision</h2>
@@ -184,7 +184,7 @@ Towers</h2>
       </div>
     </figure>
 
-    <figure className="animate delay4">
+    <figure className="animate delay4 card">
       <img src="huron.webp" alt="Huron Church" />
       <div>
         <h2>huron Church</h2>
@@ -192,7 +192,7 @@ Towers</h2>
       </div>
     </figure>
 
-    <figure className="animate delay5">
+    <figure className="animate delay5 card">
       <img src="elp.webp" alt="East London Plaza" />
       <div>
         <h2>East London Plaza</h2>

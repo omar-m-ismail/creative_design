@@ -292,9 +292,12 @@ text-align: end;
     transform: translateX(0);
   }
 }
+.mini div {
+  width: 30vw !important;
+}
 
 
-.mini figure {
+.card {
   flex: 1 1 calc(33% - 3rem);
   width: 30vw !important;
   min-height: 18vw;
