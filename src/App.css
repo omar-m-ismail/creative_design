@@ -594,10 +594,13 @@ padding: 20px;
   padding: 5vw;
 
 }
+.mini>div{
+  width: 100%;
+}
   .card{
-    flex-direction: row;
-    width: 100%;
-    height: 30vh;
+    flex-direction: row !important;
+    width: 100% !important;
+    height: 30vh !important;
   }
   .card div{
     display: flex;
