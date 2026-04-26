@@ -586,7 +586,14 @@ padding: 20px;
   .wwu_text{
     flex-direction: row;
   }
+.mini {
+  display: flex;
+  flex-direction: column;
+  gap:1vw;
+  flex: 1;
+  padding: 5vw;
 
+}
   .card{
     flex-direction: row;
     width: 100%;
