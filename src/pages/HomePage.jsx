@@ -174,7 +174,7 @@ Towers</h2>
       </div>
     </figure>
 
-    <br />
+
 
     <figure className="animate delay3 card">
       <img src="meadowilly.webp" alt="Meadowlily Subdivision" />
