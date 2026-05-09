@@ -607,9 +607,8 @@ padding: 20px;
 
   .card img{
     height: 16vh!important;
-    width: 50vw;
+    width: 50vw !important;
   }
-
 
 
 
