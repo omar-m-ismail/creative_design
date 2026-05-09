@@ -56,6 +56,7 @@ ul,.social_links{
 .projects-footer h2{
     font-family: 'mont';
     text-transform: uppercase;
+    font-size: clamp(1em, 2vw, 1.5em) ;
 }
 
 /* overlay */
@@ -113,6 +114,9 @@ margin: 0 !important;
     margin: 0;
   width: 100% !important;
   height: 20px;
+}
+.roooow div ul{
+  font-size: clamp(0.5em ,1vw, 2rem);
 }
 @font-face {
   font-family: "mont";
