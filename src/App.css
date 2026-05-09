@@ -381,7 +381,7 @@ padding: 20px;
 .mini figure div h2 {
   text-transform: uppercase;
   font-family: "Tan Mon Cheri";
-  font-size: clamp(0.6rem, 1.8vw, 5rem);
+  font-size: clamp(0.75rem, 1.8vw, 5rem);
 }
 
 
@@ -607,6 +607,7 @@ padding: 20px;
 
   .card img{
     height: 16vh!important;
+    width: 50vw;
   }
 
 
