@@ -322,6 +322,7 @@ text-align: end;
   text-decoration: underline;
   padding-bottom: 30px;
     font-size: clamp(0.2rem, 1vw, 1.5rem);
+    width: 100%;
 }
 .video-wrapper {
   position: relative;
