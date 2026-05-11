@@ -308,7 +308,7 @@ text-align: end;
   background-color: #20252D;
   color: #f8f8f8;
   border: 2px solid #f8f8f8;
-  display: flex I !important;
+  display: flex;
   flex-direction: column;
   overflow: hidden;
   font-family: 'Red Hat Display';
@@ -376,6 +376,8 @@ video{
 .mini figure div {
 width: 100%;
 padding: 20px;
+display: flex;
+flex-direction: column;
 }
 
 .mini figure div h2 {
