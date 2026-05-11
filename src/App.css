@@ -385,6 +385,8 @@ flex-direction: column;
   text-transform: uppercase;
   font-family: "Tan Mon Cheri";
   font-size: clamp(0.7rem, 1.6vw, 5rem);
+  width: 100%;
+  text-align: left;
 }
 
 
