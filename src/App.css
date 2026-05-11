@@ -308,7 +308,7 @@ text-align: end;
   background-color: #20252D;
   color: #f8f8f8;
   border: 2px solid #f8f8f8;
-  display: flex;
+  display: flex I !important;
   flex-direction: column;
   overflow: hidden;
   font-family: 'Red Hat Display';
