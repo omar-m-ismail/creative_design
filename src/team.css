@@ -119,7 +119,7 @@ body {
 }
 .row h1{
   text-transform: uppercase;
-  font-size: clamp(0.5rem,2.2vw,2rem);
+  font-size: clamp(0.5rem,10vw,2rem);
 }
 .group1 img,.group2 img{
   max-width:17vw;
