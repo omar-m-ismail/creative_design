@@ -60,7 +60,7 @@ body {
     flex-direction: row;
     margin-bottom: 2.2vw;
     margin-top: 2.2vw;
-    font-size: clamp(0.45rem,0.9vw,2rem);
+    font-size: clamp(7px,0.9vw,2rem);
     gap: 3.33vw;
     height: 47.5vw;
     width: 100%;
