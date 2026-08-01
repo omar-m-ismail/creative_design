@@ -146,4 +146,7 @@ body {
 .group1{
   flex-direction: column;
 }
+.g1text{
+  width: 100%;
+}
 }
