@@ -79,6 +79,7 @@ body {
         font-size: medium;
         font-weight: bold;
             font-family: "Red Hat Display Heavy";
+                font-size: clamp(7px,0.9vw,2rem);
 }
 .g1text{
   margin-bottom: 2rem;
