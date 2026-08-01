@@ -143,4 +143,7 @@ body {
   max-width: 20vw;
   max-height: 23vw;
 }
+.group1{
+  flex-direction: column;
+}
 }
