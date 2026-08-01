@@ -143,8 +143,9 @@ body {
   max-width: 20vw;
   max-height: 23vw;
 }
-.group1{
+.group1,.group2{
   flex-direction: column;
+  width: 100%;
 }
 .g1text{
   width: 100%;
